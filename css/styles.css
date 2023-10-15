@@ -19,7 +19,7 @@ main {
 }
 header {
     height: 40rem;
-    background-image: url("/assets/header.jpg");
+    background-image: url("./assets/header.jpg");
     background-position: center;
     background-size: cover;
     padding: 1rem;
